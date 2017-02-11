@@ -3,3 +3,5 @@
 #permalink: /blog/:year/:month/:day/:title
 
 name: Zhufei Chu
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
