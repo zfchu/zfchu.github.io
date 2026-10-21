@@ -1,0 +1,9 @@
+const $=s=>document.querySelector(s);
+let expanded=false,limit=12;
+function news(){ $('#news-list').innerHTML=DATA.news.slice(0,expanded?undefined:5).map(s=>'<li>'+s.replace(/^\s*([^,]+),/,'<span class="news-date">$1</span>')+'</li>').join('');$('#news-toggle').textContent=expanded?'Show fewer updates −':'View all updates +';$('#news-toggle').setAttribute('aria-expanded',String(expanded)); }
+$('#news-toggle').addEventListener('click',()=>{expanded=!expanded;news()});news();
+for(const year of [...new Set(DATA.pubs.map(p=>p.year))]){const o=document.createElement('option');o.value=year;o.textContent=year;$('#year').append(o)}
+function render(){const q=$('#search').value.trim().toLowerCase(),year=$('#year').value;const filtered=DATA.pubs.filter(p=>{const d=document.createElement('div');d.innerHTML=p.html;return (year==='all'||p.year===year)&&d.textContent.toLowerCase().includes(q)});$('#publication-list').innerHTML=filtered.slice(0,limit).map(p=>'<article class="pub"><span class="pub-year">'+p.year+'</span><div class="pub-content">'+p.html+'</div></article>').join('');$('#result-count').textContent=filtered.length+' publications';$('#more-pubs').hidden=filtered.length<=limit;$('#no-results').hidden=!!filtered.length;}
+for(const id of ['#year','#search'])$(id).addEventListener(id==='#year'?'change':'input',()=>{limit=12;render()});$('#more-pubs').addEventListener('click',()=>{limit+=20;render()});render();
+$('#tutorial-list').innerHTML=DATA.tutorials.map(s=>'<li>'+s+'</li>').join('');
+$('#service-list').innerHTML=DATA.services.slice(0,16).map(s=>'<li>'+s+'</li>').join('');$('#review-list').innerHTML=DATA.services.slice(16).map(s=>'<li>'+s+'</li>').join('');$('#link-list').innerHTML=DATA.links.map(s=>'<li>'+s+'</li>').join('');$('#copyright-year').textContent=new Date().getFullYear();
