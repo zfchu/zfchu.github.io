@@ -421,7 +421,7 @@ const DATA = {
   "news": [
     "Nov. 2026, Invited to serve as the General Co-Chair of <A href=\"https://www.iccsd.net/index.html\">ICCSD'26</a> (Ningbo, 2026).",
     "Oct. 2026, Invited to serve as a TPC Member of <A\n            href=\"https://www.dac.com\">\n        DAC'27</a>.",
-    "Sep. 2026, Invited to serve as a TPC member of <A\n        href=\"https://sasimi.jp/new/sasimi2026/\">SASIMI'26</a>.",
+    "Sep. 2026, Invited to serve as a TPC member of <A\n        href=\"https://sasimi.jp/new/sasimi2027/\">SASIMI'27</a>.",
     "July 2026, Invited to serve as the Finance Chair of <A href=\"https://www.iwls.org/iwls2027\">IWLS'27</a> (Shanghai, 2027).",
     "July 2026, Invited to serve as a TPC member of <A\n        href=\"https://www.date-conference.com/\">DATE'27</a>.",
     "Jan. 2026, Invited to serve as a Guest Editor of <A href=\"https://www.sciencedirect.com/special-issue/329310/2025-china-computer-federation-integrated-circuit-design-and-automation-conference-ccf-dac\"> Integration, the VLSI Journal</a>.",
