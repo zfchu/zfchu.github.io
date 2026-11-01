@@ -55,7 +55,7 @@ const DATA = {
     },
     {
       "year": "2026",
-      "html": "Jiaxiang Pan, Yinshui Xia, Lunyao Wang, and <A href=\"https://zfchu.github.io\">Zhufei Chu</a>, \"<A href=\"https://ieeexplore.ieee.org/document/11340701\">LV-MAGIC: Logic Synthesis and Verification for MAGIC based In-Memory Computing</a>\",  <i> IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems\n      </i>, <strong>TCAD</strong>, Early Access, doi: 10.1109/TCAD.2026.3652093."
+      "html": "Jiaxiang Pan, Yinshui Xia, Lunyao Wang, and <A href=\"https://zfchu.github.io\">Zhufei Chu</a>, \"<A href=\"https://ieeexplore.ieee.org/document/11340701\">LV-MAGIC: Logic Synthesis and Verification for MAGIC based In-Memory Computing</a>\",  <i> IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems\n      </i>, <strong>TCAD</strong>, Sep. 2026, 45(9):4190-4203, doi: 10.1109/TCAD.2026.3652093."
     },
     {
       "year": "2026",
@@ -63,7 +63,7 @@ const DATA = {
     },
     {
       "year": "2026",
-      "html": "Lingfeng Zhou, Yilong Zhou, Hao Gong, Zhengyuan Shi, Qiang Xu, <A\n          href=\"https://zfchu.github.io/\">Zhufei Chu</a>, Yue Wu, and Xiaoyan\n        Yang, \"DeepCut: Structure-Aware GNN Framework for Efficient Cut Timing\n        Prediction in Logic Synthesis\", <strong> ASPDAC'26</strong>, \n\t   <i>Asia and South Pacific Design Automation Conference</i>, Hongkong, China, Jan. 2026."
+      "html": "Lingfeng Zhou, Yilong Zhou, Hao Gong, Zhengyuan Shi, Qiang Xu, <A\n          href=\"https://zfchu.github.io/\">Zhufei Chu</a>, Yue Wu, and Xiaoyan\n        Yang, \"<A href=\"https://doi.org/10.1109/ASP-DAC66049.2026.11420352\">DeepCut: Structure-Aware GNN Framework for Efficient Cut Timing\n        Prediction in Logic Synthesis</a>\", <strong> ASPDAC'26</strong>, \n\t   <i>Asia and South Pacific Design Automation Conference</i>, Hongkong, China, Jan. 2026, pp. 297-303."
     },
     {
       "year": "2025",
@@ -75,11 +75,11 @@ const DATA = {
     },
     {
       "year": "2025",
-      "html": "Zhengyuan Shi, Chengyu Ma, Ziyang Zheng, Lingfeng Zhou, Hongyang Pan, Wentao Jiang, Fan Yang, Xiaoyan Yang, <A\n\t          href=\"https://zfchu.github.io/\">Zhufei Chu</a>, and Qiang Xu, \"DeepCell: Self-Supervised Multiview Fusion for Circuit Representation Learning\", <strong> ICCAD' 25</strong>, \n\t\t   <i>International Conference on Computer-Aided Design</i>, Munich, Germany, Oct. 2025."
+      "html": "Zhengyuan Shi, Chengyu Ma, Ziyang Zheng, Lingfeng Zhou, Hongyang Pan, Wentao Jiang, Fan Yang, Xiaoyan Yang, <A\n\t          href=\"https://zfchu.github.io/\">Zhufei Chu</a>, and Qiang Xu, \"<A href=\"https://doi.org/10.1109/ICCAD66269.2025.11240883\">DeepCell: Self-Supervised Multiview Fusion for Circuit Representation Learning</a>\", <strong> ICCAD' 25</strong>, \n\t\t   <i>International Conference on Computer-Aided Design</i>, Munich, Germany, Oct. 2025, pp. 1-9."
     },
     {
       "year": "2025",
-      "html": "Zhengyuan Shi, Wentao Jiang, Xindi Zhang, Jin Luo, Yun Liang, <A\n\t          href=\"https://zfchu.github.io/\">Zhufei Chu</a>, and Qiang Xu, \"<A href=\"https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.34/LIPIcs.CP.2025.34.pdf\">DynamicSAT: Dynamic Configuration Tuning for SAT Solving</a>\", <strong> CP' 25</strong>, \n\t\t   <i>The 31st International Conference on Principles and Practice of Constraint Programming</i>, Glasgow, Scotland, Aug. 2025."
+      "html": "Zhengyuan Shi, Wentao Jiang, Xindi Zhang, Jin Luo, Yun Liang, <A\n\t          href=\"https://zfchu.github.io/\">Zhufei Chu</a>, and Qiang Xu, \"<A href=\"https://doi.org/10.4230/LIPIcs.CP.2025.34\">DynamicSAT: Dynamic Configuration Tuning for SAT Solving</a>\", <strong> CP' 25</strong>, \n\t\t   <i>The 31st International Conference on Principles and Practice of Constraint Programming</i>, Glasgow, Scotland, Aug. 2025, LIPIcs, vol. 340, pp. 34:1-34:23."
     },
     {
       "year": "2025",
@@ -167,11 +167,11 @@ const DATA = {
     },
     {
       "year": "2024",
-      "html": "Huali Duan, Erping Li, Qinyi Huang, Da Li, <A href=\"https://zfchu.github.io/\">Zhufei Chu</a>, Jian Wang, and Wenchao Chen, \n\"<A href=\"https://pubs.aip.org/aip/jap/article/135/10/104502/3270993\">Investigation of thermal stress effects on subthreshold conduction in nanoscale p-FinFET from Multiphysics perspective</a>\". \n<i>Journal of Applied Physics</i>, Mar. 2024, 135(10)."
+      "html": "Huali Duan, Erping Li, Qinyi Huang, Da Li, <A href=\"https://zfchu.github.io/\">Zhufei Chu</a>, Jian Wang, and Wenchao Chen, \n\"<A href=\"https://pubs.aip.org/aip/jap/article/135/10/104502/3270993\">Investigation of thermal stress effects on subthreshold conduction in nanoscale p-FinFET from Multiphysics perspective</a>\". \n<i>Journal of Applied Physics</i>, Mar. 2024, 135(10):104502."
     },
     {
       "year": "2024",
-      "html": "Tiancheng Li, Erping Li, Huali Duan, <A\n       href=\"https://zfchu.github.io\">Zhufei Chu</a>, Jian Wang, and Wenchao Chen,\n     \"Artificial neural network models for\n     metal-ferroelectric-insulator-semiconductor ferroelectric tunnel junction memristor\",\n     <i>Microelectronics Journal</i>, Feb. 2024, Vol 144, 106083."
+      "html": "Tiancheng Li, Erping Li, Huali Duan, <A\n       href=\"https://zfchu.github.io\">Zhufei Chu</a>, Jian Wang, and Wenchao Chen,\n     \"<A href=\"https://doi.org/10.1016/j.mejo.2023.106083\">Artificial neural network models for\n     metal-ferroelectric-insulator-semiconductor ferroelectric tunnel junction memristor</a>\",\n     <i>Microelectronics Journal</i>, Feb. 2024, Vol 144, 106083."
     },
     {
       "year": "2024",
@@ -355,7 +355,7 @@ const DATA = {
     },
     {
       "year": "2017",
-      "html": "Jibo Wang, Yinshui Xia, <A href=\"https://zfchu.github.io/\">Zhufei Chu</a>, and Lunyao Wang, \"Fast Cells Defect-Tolerant Mapping Based on Gate Node Interval Selection in CMOL Circuits\", <i> Journal of Computer-Aided Design and Computer graphics</i>, 29(1):172-179, Jan 2017. (in Chinese)"
+      "html": "Jibo Wang, Yinshui Xia, <A href=\"https://zfchu.github.io/\">Zhufei Chu</a>, and Lunyao Wang, \"<A href=\"https://www.jcad.cn/en/article/id/979ea109-d642-430a-85a6-2055b76dde03\">Fast Cells Defect-Tolerant Mapping Based on Gate Node Interval Selection in CMOL Circuits</a>\", <i> Journal of Computer-Aided Design and Computer graphics</i>, 29(1):172-179, Jan 2017. (in Chinese)"
     },
     {
       "year": "2016",
@@ -371,7 +371,7 @@ const DATA = {
     },
     {
       "year": "2014",
-      "html": "<A href=\"https://zfchu.github.io/\">Zhufei Chu</a>, Yinshui Xia, Lunyao Wang, and Jun Zhai \"Wire-bonding Power Pad Assignment and Power Mesh Topological Optimization for Multiple Voltage SoC\", <i> Journal of Computer-Aided Design and Computer graphics</i>, 26(9):1501-1508, Sep 2014."
+      "html": "<A href=\"https://zfchu.github.io/\">Zhufei Chu</a>, Yinshui Xia, Lunyao Wang, and Jun Zhai \"<A href=\"https://www.jcad.cn/article/id/871e6e9e-f95f-4e66-9282-7fe4e1a9b1eb\">Wire-bonding Power Pad Assignment and Power Mesh Topological Optimization for Multiple Voltage SoC</a>\", <i> Journal of Computer-Aided Design and Computer graphics</i>, 26(9):1501-1508, Sep 2014."
     },
     {
       "year": "2014",
@@ -395,27 +395,27 @@ const DATA = {
     },
     {
       "year": "Before 2014",
-      "html": "<A href=\"https://zfchu.github.io/\">Zhufei Chu</a>, Yinshui Xia, Lunyao Wang and Jian Wang, \"Voltage drop aware power pad assignment and floorplanning for multi-voltage SoC designs\", <i>13th International Conference on Computer-Aided Design and Computer Graphics (<strong>CAD/Graphics 2013</strong>)</i>, Nov. 2013, Hongkong, pp. 87-94."
+      "html": "<A href=\"https://zfchu.github.io/\">Zhufei Chu</a>, Yinshui Xia, Lunyao Wang and Jian Wang, \"<A href=\"https://doi.org/10.1109/CADGraphics.2013.19\">Voltage drop aware power pad assignment and floorplanning for multi-voltage SoC designs</a>\", <i>13th International Conference on Computer-Aided Design and Computer Graphics (<strong>CAD/Graphics 2013</strong>)</i>, Nov. 2013, Hongkong, pp. 87-94."
     },
     {
       "year": "Before 2014",
-      "html": "<A href=\"https://zfchu.github.io/\">Zhufei Chu</a>, Yinshui Xia, William N. N. Hung, Lunyao Wang and Xiaoyu Song , “A memetic approach for nanoscale circuit cell mapping”,<i>13th EUROMICRO Conference on Digital System Design (<strong>DSD 2010</strong>)</i>, Sep. 2010, Lille, France."
+      "html": "<A href=\"https://zfchu.github.io/\">Zhufei Chu</a>, Yinshui Xia, William N. N. Hung, Lunyao Wang and Xiaoyu Song , “<A href=\"https://doi.org/10.1109/DSD.2010.22\">A Memetic Approach for Nanoscale Hybrid Circuit Cell Mapping</a>”,<i>13th EUROMICRO Conference on Digital System Design (<strong>DSD 2010</strong>)</i>, Sep. 2010, Lille, France."
     },
     {
       "year": "Before 2014",
-      "html": "<A href=\"https://zfchu.github.io/\">Zhufei Chu</a>, Yinshui Xia, Lunyao Wang and Meiqun Hu, “CMOL cell assignment based on dynamic interchange”,<i>Proceedings 2009 8th IEEE International Conference on ASIC (<strong>ASICON 2009</strong>)</i>,Oct. 2009, Changsha, China."
+      "html": "<A href=\"https://zfchu.github.io/\">Zhufei Chu</a>, Yinshui Xia, Lunyao Wang and Meiqun Hu, “<A href=\"https://doi.org/10.1109/ASICON.2009.5351545\">CMOL cell assignment based on dynamic interchange</a>”,<i>Proceedings 2009 8th IEEE International Conference on ASIC (<strong>ASICON 2009</strong>)</i>,Oct. 2009, Changsha, China."
     },
     {
       "year": "Before 2014",
-      "html": "Yinshui Xia, <A href=\"https://zfchu.github.io/\">Zhufei Chu</a>, William N. N. Hung, Lunyao Wang and Xiaoyu Song, “CMOL cell assignment by genetic algorithm”,<i>8th IEEE NEWCAS Conference (<strong>NEWCAS 2010</strong>)</i>,Jun. 2010, Montreal, Canada."
+      "html": "Yinshui Xia, <A href=\"https://zfchu.github.io/\">Zhufei Chu</a>, William N. N. Hung, Lunyao Wang and Xiaoyu Song, “<A href=\"https://doi.org/10.1109/NEWCAS.2010.5603746\">CMOL cell assignment by genetic algorithm</a>”,<i>8th IEEE NEWCAS Conference (<strong>NEWCAS 2010</strong>)</i>,Jun. 2010, Montreal, Canada."
     },
     {
       "year": "Before 2014",
-      "html": "Zhufei Chu, Yinshui Xia and Lunyao Wang, \"Fast mapping of Nano/CMOS cells\", <i> Journal of Computer-Aided Design and Computer graphics</i>, 23(3):514-520, Mar 2011."
+      "html": "Zhufei Chu, Yinshui Xia and Lunyao Wang, \"<A href=\"https://www.jcad.cn/cn/article/pdf/preview/10cb0cd2-078e-47bd-9e73-329f901c4dcf.pdf\">Fast mapping of Nano/CMOS cells</a>\", <i> Journal of Computer-Aided Design and Computer graphics</i>, 23(3):514-520, Mar 2011."
     },
     {
       "year": "Before 2014",
-      "html": "Yinshui Xia, Zhufei Chu, Lunyao Wang, William N N Hung and Xiaoyu Song, \"Logic Equivalent Transformation for Nano-meter CMOS Hybrid Circuits\", <i> Journal of Electronics and Information Technology</i>, 33(7):1733-1737, July 2011."
+      "html": "Yinshui Xia, Zhufei Chu, Lunyao Wang, William N N Hung and Xiaoyu Song, \"<A href=\"https://doi.org/10.3724/SP.J.1146.2010.01208\">Logic Equivalent Transformation for Nano-meter CMOS Hybrid Circuits</a>\", <i> Journal of Electronics and Information Technology</i>, 33(7):1733-1737, July 2011."
     }
   ],
   "news": [
