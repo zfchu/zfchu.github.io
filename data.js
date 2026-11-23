@@ -2,6 +2,14 @@
 const DATA = {
   "pubs": [
       {
+         "year": "2027",
+         "html": "Chengyu Ma, Xuliang Zhu, Yinshui Xia, Lunyao Wang and <A\n\t          href=\"https://zfchu.github.io/\">Zhufei Chu</a>, \"MFFW-Based Multi-Representation Refactoring for Post-Mapping Networks\", <strong> DATE' 27</strong>, \n\t   <i>2027 Design, Automation and Test in Europe Conference</i>,  Dresden, Germany, Mar. 2027. "
+     },
+      {
+         "year": "2027",
+         "html": "Zhang Hu, Yinshui Xia, Lunyao Wang and <A\n\t          href=\"https://zfchu.github.io/\">Zhufei Chu</a>, \"Heterogeneous Structural Exploration for Technology-Aware Structure Choices\", <strong> DATE' 27</strong>, \n\t   <i>2027 Design, Automation and Test in Europe Conference</i>,  Dresden, Germany, Mar. 2027. "
+     },
+      {
          "year": "2026",
          "html": "Zhang Hu, Ming Yan, Yinshui Xia, Lunyao Wang and <A\n\t          href=\"https://zfchu.github.io/\">Zhufei Chu</a>, \"LV-RM3: Logic Synthesis and Verification of Computing-in-Memory Systems Using 3-Input Resistive Majority Gates\", <i>ACM Journal on Emerging Technologies in Computing Systems\n     </i>, <strong>JETC</strong>, Oct. 2026, accepted for publication."
      },
